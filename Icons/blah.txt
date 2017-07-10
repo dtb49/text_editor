@@ -1,0 +1,1 @@
+This is where all of the icons are stored for the text editor
